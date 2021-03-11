@@ -9,7 +9,7 @@ Woodpecker::Woodpecker()
 
 void Woodpecker::Move()
 {
-	cout << "moves woodpeckerly\n";
+	cout << "Moves how a woodpecker may move\n";
 }
 
 int Woodpecker::CalculateBirdStrength()
