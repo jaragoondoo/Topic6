@@ -13,5 +13,6 @@ int main()
 {
 	Woodpecker wp;
 	wp.Move();
+	wp.Move();
 }
 
